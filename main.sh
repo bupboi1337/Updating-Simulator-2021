@@ -1,4 +1,3 @@
-RED='\033[0;31m'
 echo 'sudo TotallyRealPackageManager-get update && sudo TotallyRealPackageManager upgrade'
 echo [===============]
 sleep 6.14
